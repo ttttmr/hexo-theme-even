@@ -8,4 +8,5 @@
 
   gtag('config', '{{ theme.google_analytics }}');
 </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6936692409777547" crossorigin="anonymous"></script>
 {%- endif -%}
